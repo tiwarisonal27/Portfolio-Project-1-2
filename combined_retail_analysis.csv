@@ -1,0 +1,51 @@
+Section,Category,Sub_Category,Profit_Margin,Total_Sales,Total_Profit,Month,Region,Quantity
+Profit by Sub-Category,Furniture,Bookcases,-0.03,114879.9963,-3472.556,,,
+Profit by Sub-Category,Furniture,Chairs,0.08,328449.103,26590.1663,,,
+Profit by Sub-Category,Furniture,Furnishings,0.14,91705.164,13059.1436,,,
+Profit by Sub-Category,Furniture,Tables,-0.09,206965.532,-17725.4811,,,
+Profit by Sub-Category,Office Supplies,Appliances,0.17,107532.16100000001,18138.005400000002,,,
+Profit by Sub-Category,Office Supplies,Art,0.24,27118.792,6527.787,,,
+Profit by Sub-Category,Office Supplies,Binders,0.15,203412.733,30221.7633,,,
+Profit by Sub-Category,Office Supplies,Envelopes,0.42,16476.402,6964.1767,,,
+Profit by Sub-Category,Office Supplies,Fasteners,0.31,3024.28,949.5182,,,
+Profit by Sub-Category,Office Supplies,Labels,0.44,12486.312,5546.254,,,
+Profit by Sub-Category,Office Supplies,Paper,0.43,78479.206,34053.5693,,,
+Profit by Sub-Category,Office Supplies,Storage,0.1,223843.608,21278.8264,,,
+Profit by Sub-Category,Office Supplies,Supplies,-0.03,46673.538,-1189.0995,,,
+Profit by Sub-Category,Technology,Accessories,0.25,167380.318,41936.6357,,,
+Profit by Sub-Category,Technology,Copiers,0.37,149528.03,55617.8249,,,
+Profit by Sub-Category,Technology,Machines,0.02,189238.631,3384.7569,,,
+Profit by Sub-Category,Technology,Phones,0.13,330007.054,44515.7306,,,
+Monthly Trends,,,,161083.5874,25167.1017,1,,
+Monthly Trends,,,,132721.3594,23753.6477,2,,
+Monthly Trends,,,,220064.646,29336.5893,3,,
+Monthly Trends,,,,147031.2641,12267.1962,4,,
+Monthly Trends,,,,166420.3167,24234.4105,5,,
+Monthly Trends,,,,144883.4973,21164.9016,6,,
+Monthly Trends,,,,161227.1045,10008.648799999999,7,,
+Monthly Trends,,,,209964.3679,24820.345,8,,
+Monthly Trends,,,,248989.3031,34554.8774,9,,
+Monthly Trends,,,,184356.3342,22336.9254,10,,
+Monthly Trends,,,,271693.7525,26435.0796,11,,
+Monthly Trends,,,,248765.3272,32317.2985,12,,
+Region-Wise Performance,,,0.08,501239.8908,39706.3625,,Central,
+Region-Wise Performance,,,0.13,678781.24,91522.78,,East,
+Region-Wise Performance,,,0.12,391721.905,46749.4303,,South,
+Region-Wise Performance,,,0.15,725457.8245,108418.4489,,West,
+Quantity vs Profit,,Accessories,,,41936.6357,,,2976
+Quantity vs Profit,,Appliances,,,18138.005400000002,,,1729
+Quantity vs Profit,,Art,,,6527.787,,,3000
+Quantity vs Profit,,Binders,,,30221.7633,,,5974
+Quantity vs Profit,,Bookcases,,,-3472.556,,,868
+Quantity vs Profit,,Chairs,,,26590.1663,,,2356
+Quantity vs Profit,,Copiers,,,55617.8249,,,234
+Quantity vs Profit,,Envelopes,,,6964.1767,,,906
+Quantity vs Profit,,Fasteners,,,949.5182,,,914
+Quantity vs Profit,,Furnishings,,,13059.1436,,,3563
+Quantity vs Profit,,Labels,,,5546.254,,,1400
+Quantity vs Profit,,Machines,,,3384.7569,,,440
+Quantity vs Profit,,Paper,,,34053.5693,,,5178
+Quantity vs Profit,,Phones,,,44515.7306,,,3289
+Quantity vs Profit,,Storage,,,21278.8264,,,3158
+Quantity vs Profit,,Supplies,,,-1189.0995,,,647
+Quantity vs Profit,,Tables,,,-17725.4811,,,1241
